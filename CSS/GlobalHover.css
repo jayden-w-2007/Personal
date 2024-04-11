@@ -1,0 +1,11 @@
+a:hover{
+    color: #555555;
+    cursor: pointer;
+}
+
+button:hover{
+    transition: all 0.25s;
+    background-color: #555555;
+    color: #ffffff;
+    cursor: pointer;
+}

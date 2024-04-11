@@ -1,0 +1,57 @@
+*{
+    font-family: "Poppins", sans-serif
+}
+
+body{
+    margin: 0px;
+}
+
+
+h1{
+    font-size: 37pt;
+    font-weight: Bold;
+    margin: 10px;
+}
+
+/* Most Used */
+h2{
+    font-size: 23pt;
+    font-weight: normal;
+    margin: 10px;
+}
+
+h3{
+    font-size: 20pt;
+    font-weight: bold;
+    margin: 10px;
+    margin-bottom: 30px;
+    color: #555555;
+}
+
+h4{
+    font-size: 13pt;
+    font-weight: bold;
+    margin: 10px;
+    color: #555555;
+}
+
+a{
+    font-size: 15pt;
+    font-weight: normal;
+}
+
+p{
+    font-size: 13pt;
+    font-weight: normal;
+    color: #555555;
+}
+
+button{
+    border-color: #555555;
+    border-width: 1px;
+    background-color: transparent;
+    border-radius: 25px;
+    margin: 3px;
+    height: 50px;
+    width: 125px;
+}
