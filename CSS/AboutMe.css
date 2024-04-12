@@ -1,0 +1,27 @@
+#AboutMe{
+    margin: auto;
+    padding-top: 35px;
+    margin-Top: 10%; margin-bottom: 30%; 
+    width: 80%; min-width: 500px;
+    text-align: center;
+}
+
+#AboutMeCardContainer{
+    display: flex;
+}
+
+#AboutMeCardContainer div{
+    border-width: 1px;
+    border-color: #d6d6d6;
+    border-radius: 20px;
+    border-style: solid;
+    align-content: center;
+    width: 50%; min-width: 100px;
+    height: 150px;
+    margin: 10px; padding: 10px;
+}
+
+#AboutMeDetailsText{
+    margin: auto;
+    max-width: 50%;
+}

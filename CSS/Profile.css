@@ -1,17 +1,21 @@
 #Profile{
-    margin: 10%;
-    display: flex;
-    justify-content: center;
-}
-
-#Profile div{
+    margin: auto;
+    margin-Top: 10%; margin-bottom: 10%; 
+    width: 50%; min-width: 500px;
     text-align: center;
-    align-content: center;
-    margin: 30px;
 }
 
-#Profile img{
-    width: 400px;
-    height: 400px;
+#ProfileCardContainer{
+    align-items: center;
+    display: flex;
+}
+
+#ProfileCardContainer div{
+    width: 50%; min-width: 100px;
+    margin: 10px; padding: 10px;
+}
+
+#ProfileCardContainer img{
+    width: 100%; min-width: 200px;
     border-radius: 50%;
 }
