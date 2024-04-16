@@ -1,6 +1,7 @@
 *{
     font-family: "Poppins", sans-serif;
     scroll-behavior: smooth;
+    line-height: 1.7;
 }
 
 body{
@@ -12,6 +13,7 @@ h1{
     font-size: 37pt;
     font-weight: Bold;
     margin: 10px;
+    line-height: normal;
 }
 
 h2{
